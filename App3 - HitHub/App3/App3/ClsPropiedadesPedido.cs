@@ -10,6 +10,5 @@ namespace App3
         public string Codigo { get; set; }
         public int Cantidad { get; set; }
         public int VarDetalle { get; set; }
-
     }
 }
